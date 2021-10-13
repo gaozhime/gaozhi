@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d22a9818-988b-479f-ae4e-af60540799a9" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c5NMMeiPD4rlDJWDWHdy1S0swQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FIleReadAndWrite/out/production" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComposeFileOperate.MainClass" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ComposeFileOperate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d22a9818-988b-479f-ae4e-af60540799a9" name="Default" comment="" />
+      <created>1589649346071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589649346071</updated>
+      <workItem from="1589649347601" duration="604000" />
+      <workItem from="1589649965940" duration="3339000" />
+      <workItem from="1589814479136" duration="25106000" />
+      <workItem from="1590855587668" duration="1779000" />
+      <workItem from="1591115477847" duration="14502000" />
+      <workItem from="1591455342473" duration="649000" />
+      <workItem from="1591456079262" duration="850000" />
+      <workItem from="1591456956581" duration="869000" />
+      <workItem from="1591457875627" duration="8423000" />
+      <workItem from="1591718053431" duration="5338000" />
+      <workItem from="1593533151067" duration="3525000" />
+      <workItem from="1596639786247" duration="1759000" />
+      <workItem from="1602685657148" duration="5195000" />
+      <workItem from="1602945330544" duration="5112000" />
+      <workItem from="1603026551817" duration="722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="105" key="FileChooserDialogImpl" timestamp="1602772009372">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="105" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602772009372" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1602950757124">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602950757124" />
+    <state x="362" y="82" width="540" height="524" key="StructurePopup" timestamp="1602949465943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1602949465943" />
+    <state x="339" y="130" key="com.intellij.ide.util.TipDialog" timestamp="1603026581501">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="339" y="130" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1603026581501" />
+    <state x="28" y="40" width="1224" height="640" key="new project wizard" timestamp="1603028753788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="40" width="1224" height="640" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1603028753788" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602949423509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602949423509" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComposeFileOperate/HttpClient.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComposeFileOperate/HttpClient.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComposeFileOperate/HttpClient.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComposeFileOperate/HttpClient.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComposeFileOperate/HttpClient.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

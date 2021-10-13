@@ -1,0 +1,17 @@
+student:
+    name: '高智'
+    sex: meal
+    age: 31
+
+
+##Thymeleaf配置信息
+spring:
+    thymeleaf:
+        #prefix: 指定模板所在的目录
+        prefix: classpath:/templates/
+        #check-template-location:检查模板路径是否存在
+        check-template-location: true
+        cache: true
+        suffix: .html
+        encoding: utf-8
+        mode: HTML5
